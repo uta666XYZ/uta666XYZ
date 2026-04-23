@@ -14,7 +14,7 @@ Porting PoE's entire 3rd party app ecosystem into Last Epoch
 
 — part of my secret agenda known as  
 
-MLEA (Make Last Epoch Again).
+MLEGA (Make Last Epoch Great Again).
 
 <br>
 
