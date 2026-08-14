@@ -1,63 +1,19 @@
-Welcome to my domain ;)  
+# Kia ora! I'm Yuta (aka uta666)
 
-I'm a professional retard  
+**Data Analyst · Data Visualisation · Bioinformatician** based in New Zealand
 
-who wants to make my life better,  
+I take data the whole way: collecting, cleaning, analysing, and visualising it,
+then turning it into interactive dashboards that people can actually use.
+In my free time, I build tools for the games I play.
 
-bitter, and  
+**Skills:** R / RStudio (10+ yrs) · Python (5 yrs) · pandas · NumPy · scikit-learn · TensorFlow · Plotly · Shiny · Dash · Docker · Lua
 
-sometimes sweeter.
+### Data & science projects
+- **[seaweed-explorer](https://github.com/uta666XYZ/seaweed-explorer)**: PCA→UMAP dashboard with a from-scratch autoencoder in base R · [live](https://uta666-seaweed-dashboard.hf.space/)
+- **[TuringPattern](https://github.com/uta666XYZ/TuringPattern)**: reaction-diffusion simulation (Python/Dash) · [live](https://uta666xyz.github.io/TuringPattern-web/)
+- **[plant-dose-response](https://github.com/uta666XYZ/plant-dose-response)**: log-logistic dose-response modelling (ED50, 95% CI) in R
+- **[plant-salt-cnt-stress](https://github.com/uta666XYZ/plant-salt-cnt-stress)**: two-way ANOVA & interaction plots (R)
 
-<br>
-
-Porting PoE's entire 3rd party app ecosystem into Last Epoch  
-
-— part of my secret agenda known as  
-
-MLEGA (Make Last Epoch Great Again).
-
-<br>
-
-I deeply believe  
-
-someone has to tank all the hate towards LE.  
-
-And yes, Krafton  
-
-— it WASN'T the shitty MTX that killed the vibe.  
-
-It was YOU.  
-
-You caused this chaos.  
-
-So here I am.
-
-<br>
-
-Burn the Erdtree to the ground.  
-
-Incinerate all that divides and distinguishes.  
-
-Ahh... may chaos take the world.  
-
-MAY CHAOS TAKE THE WORLD!!!!!!!!!!!!!!!!!
-
-
----
-
-## Planned Projects
-Apps I want to build for Last Epoch:
-
-**LE Overlay** *(inspired by Awakened PoE Trade)*
-- Shift+Space hotkey to browse saved screenshots
-- Paste stored regex directly into in-game chest/stash search
-
-**LE Window Utility** *(inspired by ExiledUI)*
-- Resize the game window to any arbitrary resolution
-- Tracks kill counts, map completion time, and other in-run stats as a live overlay
-- Configurable alerts for endgame content
-
-**LE Filter Share** *(inspired by FilterBlade)*
-- A simple web app to share, browse, and manage Last Epoch loot filters
-  — because there's nothing decent out there yet.
-
+### Tools I build for games
+- **[Last Epoch Building (LEB)](https://github.com/uta666XYZ/LastEpochBuilding)**: a Path of Building-style build planner for Last Epoch · [web app](https://lastepochbuilding.com/)
+- **[PoE Delve fractured-wall finder](https://delve-fractured-wall-finder.pages.dev/)**: automatically finds Fractured walls in Path of Exile's Delve
