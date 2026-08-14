@@ -12,6 +12,7 @@ In my free time, I build tools for the games I play.
 - **[seaweed-explorer](https://github.com/uta666XYZ/seaweed-explorer)**: PCA→UMAP dashboard with a from-scratch autoencoder in base R · [live](https://uta666-seaweed-dashboard.hf.space/)
 - **[TuringPattern](https://github.com/uta666XYZ/TuringPattern)**: reaction-diffusion simulation (Python/Dash) · [live](https://uta666xyz.github.io/TuringPattern-web/)
 - **[plant-dose-response](https://github.com/uta666XYZ/plant-dose-response)**: log-logistic dose-response modelling (ED50, 95% CI) in R
+- **[apple-firmness-traces](https://github.com/uta666XYZ/apple-firmness-traces)**: signal processing of two-channel vibration traces with batch QA (R)
 - **[plant-salt-cnt-stress](https://github.com/uta666XYZ/plant-salt-cnt-stress)**: two-way ANOVA & interaction plots (R)
 
 ### Tools I build for games
